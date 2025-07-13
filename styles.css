@@ -1,15 +1,32 @@
+ .container {
+      display: flex;
+      gap: 200px;
+    }
 
-/* Your CSS Code here. */
-.eg1 {
+    .box {
       width: 100px;
       height: 100px;
       background-color: green;
-      color: black;
-      font-size: 80px;
-      font-family: Arial, sans-serif;
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       justify-content: space-evenly;
-      padding: 5px;
-	jus
+      padding-left: 0px;
+    
     }
+
+    .box span {
+      font-size: 45px;
+      color: black;
+      font-family: Arial, sans-serif;
+    	margin-bottom:50px;
+    margin-right:50px;
+    
+    }
+    #eg1{
+    background-color:red;
+    
+    } 
+     #eg2{
+    background-color:blue;
+    
+    } 
