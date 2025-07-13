@@ -4,7 +4,7 @@
     }
 
     .box {
-      width: 150px;
+      width: 250px;
       height: 90px;
       background-color: green;
       display: flex;
@@ -15,7 +15,7 @@
     }
 
     .box span {
-      font-size: 45px;
+      font-size: 40px;
       color: black;
       font-family: Arial, sans-serif;
     	margin-bottom:50px;
